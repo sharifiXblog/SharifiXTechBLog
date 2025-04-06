@@ -1,0 +1,8 @@
+body {
+  font-family: "Vazir", sans-serif;
+  direction: rtl;
+}
+h1, h2, h3, p {
+  text-align: right;
+  font-family: "Vazir", sans-serif;
+}
