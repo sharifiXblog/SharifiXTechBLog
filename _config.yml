@@ -1,0 +1,9 @@
+title: SharifiX Tech Blog
+description: >-
+  A bilingual tech blog about networking, cybersecurity, SEO, cloud, and more.
+baseurl: "" 
+url: "https://sharifiXblog.github.io"
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
